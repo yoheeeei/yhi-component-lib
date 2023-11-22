@@ -3,6 +3,11 @@
   "private": false,
   "version": "0.1.0",
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yoheeeei/yhi-component-lib.git"
+  },
+  "author": "Yohei Nakamura <yohei.contact@gmail.com> (https://github.com/yoheeeei)",
   "main": "./dist/my-ui-lib.umd.js",
   "module": "./dist/my-ui-lib.es.js",
   "types": "./dist/index.d.ts",
